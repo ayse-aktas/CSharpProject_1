@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ayse_aktas_odev_1/1.0.0": {
+        "runtime": {
+          "ayse_aktas_odev_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ayse_aktas_odev_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
